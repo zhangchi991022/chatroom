@@ -17,3 +17,8 @@
 4、qq_clinet.py：创建登录窗口，进入主事件循环
 
 5、qq_server.py：服务器处理主事件循环
+## 运行：
+
+python qq_server.py
+
+python qq_client.py
