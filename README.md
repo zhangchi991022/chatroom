@@ -22,3 +22,4 @@
 python qq_server.py
 
 python qq_client.py
+![image](https://github.com/zhangchi991022/Android-evidence-obtaining-system/blob/main/image/1.PNG)
