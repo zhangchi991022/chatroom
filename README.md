@@ -23,3 +23,6 @@ python qq_server.py
 
 python qq_client.py
 ![image](https://github.com/zhangchi991022/chatroom/blob/main/image/1.PNG)
+![image](https://github.com/zhangchi991022/chatroom/blob/main/image/2.PNG)
+![image](https://github.com/zhangchi991022/chatroom/blob/main/image/3.PNG)
+![image](https://github.com/zhangchi991022/chatroom/blob/main/image/4.PNG)
